@@ -34,7 +34,7 @@ import 'rxjs/Rx';
 
 @Injectable()
 export class DefaultApi {
-    protected basePath = 'https://602h2dvv4h.execute-api.us-east-1.amazonaws.com/development';
+    protected basePath = 'https://4ilsqk658j.execute-api.us-east-1.amazonaws.com/development';
     public defaultHeaders : Headers = new Headers();
 
     constructor(protected http: Http, @Optional() basePath: string) {
