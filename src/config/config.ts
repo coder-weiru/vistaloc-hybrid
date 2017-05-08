@@ -14,7 +14,7 @@ const Config = {
 
   PROFILE_IMAGES_S3_BUCKET:   'spacefinder-api-development-stack-userdatabucket-q7a1gxszshy4',
 
-  API_ENDPOINT:               'https://4ilsqk658j.execute-api.us-east-1.amazonaws.com/development/',
+  API_ENDPOINT:               'https://4ilsqk658j.execute-api.us-east-1.amazonaws.com/development',
 
   DEVELOPER_MODE:             false, // enable to automatically login
   CODE_VERSION:               '1.0.0',
